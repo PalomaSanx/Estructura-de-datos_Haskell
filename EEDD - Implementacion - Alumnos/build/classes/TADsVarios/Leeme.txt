@@ -1,0 +1,6 @@
+Añadir implementaciones de TADs basicos vistos en Haskell:
+
+Bool3
+Bool10
+Conjunto
+...
